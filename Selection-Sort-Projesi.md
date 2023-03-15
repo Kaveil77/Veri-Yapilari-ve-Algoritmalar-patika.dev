@@ -1,11 +1,14 @@
-Proje 1
+## Proje 1
+---
+
 [22,27,16,2,18,6] -> Insertion Sort
 
 Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
 Big-O gösterimini yazınız.
 
-Proje 1 Cevapları
+## Proje 1 Cevapları
+---
 
 Sıralama
 
@@ -17,10 +20,12 @@ Sıralama
 Big-O : O(n^2)
 Time Complexity :18 sayısının ortada olması : Avarage Case
 
-Proje 2
+## Proje 2
+---
 [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
-Proje 2 Cevapları
+## Proje 2 Cevapları
+---
 
 [7,3,5,8,2,9,4,15,6] -- Başlangıç
 1-  [2,3,5,8,7,9,4,15,6] - 2 ile 7 yer değiştirir.
