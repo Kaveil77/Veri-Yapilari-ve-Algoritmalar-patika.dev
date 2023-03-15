@@ -13,9 +13,13 @@ Big-O gösterimini yazınız.
 Sıralama
 
 1 - [22,27,16,2,18,6] - Başlangıç
+
 2-  [2,27,16,22,18,6]
+
 3-  [2,6,16,22,18,27]
+
 4-  [2,6,16,18,22,27]
+
 
 Big-O : O(n^2)
 Time Complexity :18 sayısının ortada olması : Avarage Case
